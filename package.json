@@ -1,0 +1,37 @@
+{
+  "name": "brawlperk.js",
+  "version": "1.0.0",
+  "description": "Powerful JavaScript library for interacting with the BrawlStars API",
+  "author": "NotMoni",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint --ext .js --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-hyper": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brawlperk/brawlperk.js.git"
+  },
+  "keywords": [
+    "brawl",
+    "stars",
+    "brawlstars",
+    "bs",
+    "api",
+    "wrapper",
+    "client",
+    "official"
+  ],
+  "bugs": {
+    "url": "https://github.com/brawlperk/brawlperk.js/issues"
+  },
+  "homepage": "https://github.com/brawlperk/brawlperk.js#readme"
+}
