@@ -14,7 +14,8 @@
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-config-hyper": "latest"
+    "eslint-config-hyper": "latest",
+    "eslint-plugin-import": "^2.20.2"
   },
   "repository": {
     "type": "git",
